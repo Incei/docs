@@ -4,7 +4,7 @@
 
 The qualification framework enables an automated validation of various scenarios (use-cases) supported by the OSP platform. This technical framework is used, for example, to release, in full confidence, a new version of the OSP Suite by verifying automatically that an ever-growing list of scenarios is performing as expected.
 
-A qualification scenario can be performed after an evaluation of a PBPK model has been done. A PBPK model evaluation only contains the healthy adult model development, and is divided into the following steps:
+A qualification scenario can be performed after an evaluation of the involved PBPK models has been done. A PBPK model evaluation only contains the healthy adult model development, and is divided into the following steps:
 
 - PBPK model **development and verification** with observed data
 - Model evaluation plan generation (evaluation plan = qualification plan for 1 model)
