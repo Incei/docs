@@ -38,7 +38,7 @@ The automated execution of the described workflow can be triggered to assess re-
 
 # Creating a (re-)qualification plan part I
 
-Creating a qualification report is similar to writing a scientific article: A report is written and structured in chapters, for example beginning with a short description of the scientific background of the scenario (use-case), followed by a brief methodological description (e.g. for model evaluation report modeling strategy, available data used during model building (for model evaluation report.) and underlying main assumptions) and the presentation of the qualification workflow results in the third section of the report.
+Creating a qualification report is similar to writing a scientific article: A report is written and structured in chapters, for example beginning with a short description of the scientific background of the scenario (use-case), followed by a brief methodological description (e.g. modeling strategy, available data used during model building (for model evaluation report), and underlying main assumptions) and the presentation of the qualification workflow results in the third section of the report.
 
 The qualification plan orchestrates this process and defines how all the _static_ and _dynamic_ content will be combined into the final report document.
 
