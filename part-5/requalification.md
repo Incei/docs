@@ -7,7 +7,7 @@ The qualification framework enables an automated validation of various scenarios
 A qualification scenario can be performed after an evaluation of a PBPK model has been done. A PBPK model evaluation only contains the healthy adult model development, and is divided into the following steps:
 
 - PBPK model **development and verification** with observed data
-- Model evaluation plan generation
+- Model evaluation plan generation (evaluation plan = qualification plan for 1 model)
 - Evaluation report generation
 
 The workflow of a PBPK model evaluation is similar to that of a PBPK model scenario qualification. A qualification scenario can be based on a single PBPK model or several models and is divided into the following steps:
